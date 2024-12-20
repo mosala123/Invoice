@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Invoice/static/css/main.79d19d76.css",
+    "main.js": "/Invoice/static/js/main.d5e521ac.js",
+    "static/media/ما-هي-إدارة-المشاريع-مع-توضيح-مراحلها-وأنواعها.jpg": "/Invoice/static/media/ما-هي-إدارة-المشاريع-مع-توضيح-مراحلها-وأنواعها.2f4ee9e2c6c3b61c2de0.jpg",
+    "index.html": "/Invoice/index.html",
+    "main.79d19d76.css.map": "/Invoice/static/css/main.79d19d76.css.map",
+    "main.d5e521ac.js.map": "/Invoice/static/js/main.d5e521ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79d19d76.css",
+    "static/js/main.d5e521ac.js"
+  ]
+}
